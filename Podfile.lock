@@ -1,0 +1,26 @@
+PODS:
+  - Eureka (5.2.1)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Eureka
+  - SDWebImage (~> 5.0)
+  - XLPagerTabStrip (~> 9.0)
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+    - SDWebImage
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Eureka: c883105488e05bc65539f583246ecf9657cabbfe
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 613f1bcb308c7dee9b593debc7a23f52c092f24d
+
+COCOAPODS: 1.9.3
